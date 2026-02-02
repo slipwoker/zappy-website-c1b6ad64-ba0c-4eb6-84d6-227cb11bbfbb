@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cabelo-laser-c1b6ad64.zappy5.app/sitemap.xml
